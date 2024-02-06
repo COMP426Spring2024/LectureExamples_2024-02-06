@@ -1,0 +1,30 @@
+#d1 {
+    position: relative;
+    background-color: #ffaa88;
+    width: 300px;
+    height: 300px;
+}
+
+#d2 {
+    position: relative;
+    background-color: #88ffaa;
+    width: 225px;
+    height: 200px;
+    margin-left: 25px;
+}
+
+#d3 {
+    position: relative;
+    background-color: #aa88ff;
+    margin-left: 25px;
+    width: 175px;
+    height: 150px;
+}
+
+#d4 {
+    position: relative;
+    background-color: #ffffff;
+    margin-left: 25px;
+    width: 100px;
+    height: 100px;
+}
